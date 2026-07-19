@@ -1,0 +1,21 @@
+Sales Data Analysis Project
+
+Key Business Insights
+
+1️⃣ Technology category generates the highest profit margins
+Products like Copiers and Phones are strong profit drivers.
+
+2️⃣ Tables, Bookcases, and Supplies are loss-making sub-categories
+Even though Tables have high sales, they generate negative profit.
+
+3️⃣ Discounts above ~20% significantly reduce profit margin
+Heavy discounting leads to losses in several products.
+
+4️⃣ Sales and profits peak in the last quarter (Nov–Dec)
+This indicates strong seasonality in demand.
+
+5️⃣ A small number of products generate a large portion of revenue
+Example: Canon imageCLASS copier dominates product sales.
+
+6️⃣ High sales does not always mean high profit
+Some products sell a lot but generate poor margins.
